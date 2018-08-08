@@ -1,0 +1,6 @@
+Teste de mesa:
+i = 0,1,2,3,4
+saídas = Guerra
+	 Fome
+	 Peste
+	 Morte
